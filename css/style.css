@@ -12,7 +12,7 @@ div.img-circle{
 section#portfolio {
 	padding:0;
 	background-image: url("../img/subtle_stripes.png");
-	padding-bottom:50px;
+	padding-bottom:80px;
 }
 
 section#about.bg-light-gray {
@@ -32,3 +32,7 @@ section#contact{
 	padding: 40px !important;
 	padding-bottom:15px;
 }
+
+.portfolio-caption {
+	background-color:rgba(0,0,0,.5)!important;
+	}
