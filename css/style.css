@@ -13,6 +13,7 @@ section#portfolio {
 	padding:0;
 	background-image: url("../img/subtle_stripes.png");
 	padding-bottom:80px;
+	min-height: 100vh;
 }
 
 section#about.bg-light-gray {
