@@ -1,3 +1,17 @@
+.navbar-default .navbar-brand {
+	text-shadow: 2px 2px 6px #000;
+}
+
+header {
+	min-height: 100vh;
+	background-image: url('../img/hero-img.jpg');
+}
+header .intro-text .intro-lead-in,
+header .intro-text .intro-heading {
+	text-shadow: 3px 3px 6px #000;
+}
+
+
 /*About me section*/
 .team-member img{
 	margin:0; border: 7px solid #fff; 
